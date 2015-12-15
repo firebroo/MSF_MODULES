@@ -1,3 +1,4 @@
+require 'msf/core'
 require 'socket'
 
 class Metasploit4 < Msf::Auxiliary
